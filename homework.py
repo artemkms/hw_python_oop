@@ -138,4 +138,3 @@ if __name__ == '__main__':
             print('Неожиданный тип тренировки')
         else:
             main(training)
-            
